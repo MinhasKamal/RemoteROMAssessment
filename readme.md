@@ -26,7 +26,7 @@ pip install opencv-python
 ```
 
 <div align="center">
-<img width="745" height=auto alt="Remote ROM Assessment" src="https://github.com/user-attachments/assets/053666d0-fb47-4aa8-b92d-912eaf70ff5b" />
+<img width="400" height=auto alt="Remote ROM Assessment" src="https://github.com/user-attachments/assets/053666d0-fb47-4aa8-b92d-912eaf70ff5b" />
 </div>
 
 ## Cite This Work
